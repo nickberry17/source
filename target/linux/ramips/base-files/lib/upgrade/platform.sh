@@ -138,6 +138,7 @@ platform_check_image() {
 	sap-g3200u3|\
 	sk-wb8|\
 	sl-r7205|\
+	telcox1|\
 	tew-638apb-v2|\
 	tew-691gr|\
 	tew-692gr|\

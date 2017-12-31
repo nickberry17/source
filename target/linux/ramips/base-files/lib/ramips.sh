@@ -484,6 +484,9 @@ ramips_board_detect() {
 	*"SL-R7205"*)
 		name="sl-r7205"
 		;;
+	*"TelcoX1")
+		name="telcox1"
+		;;
 	*"TEW-638APB v2")
 		name="tew-638apb-v2"
 		;;
